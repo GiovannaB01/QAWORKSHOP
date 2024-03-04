@@ -1,0 +1,61 @@
+head
+DESAFIO DO DIA 1
+Teste do cadastro e login 
+(Site Seu Barriga)
+
+Página do login;
+sugestão: mudar a temática, está tudo muito "sem graça". Poderia coloar cores e temas que tenham haver com o que o site deseja transparecer;
+
+erro1: não tem necessidade ter a opção "Seu Barriga", já que não tem fução nessa página.
+
+sugestão: falta de segurança do site. 
+
+erro2:sem confirmão de email; 
+
+erro3:sem restrição para senha;
+
+erro4:sem opção de "esqueceu a senha".
+
+erro5:não existe nada que fale do que se trata o site.
+sugestão: página de dúvidas ao cliente.
+
+
+Página home;
+sugestão: página continua sem chamar atenção para o assunto que a própia almeja transmitir;
+
+sugestão: 'conta' poderia ser mais separado de 'saldo' e haver mais detalhamneto de ambas, a fim de organizar melhor a proposta para o cliente.
+
+sugestão: 'Seu Barriga. Nunca mais esqueça de pagar o aluguel' esse aviso poderia ser colocado de uma maneira mais intuitiva e ser levado um pouco mais para a direita.
+
+erro: botão 'reset' para mostrar o saldo e conta. não tem nada a ver com a mensagem que a interação faz. 
+sugestão: substituir essa palavra e colocar algo que ligue ao que a interação faz
+e coloca-lo mais enfatizado em outra parte da página. 
+
+sugestão: falta de privacidade do cliente. poderia ter um 'olhinho' para decidir se quer mostrar os números da conta ou não.
+
+
+Página contas;
+erro: 'Conta para alterar' e 'Conta mesmo nome' aparecem na lista de contas, porém não aparecem no Home.
+sugestão:não existir contas que não estão sendo movimentadas.
+
+erro1: quando uma conta é excluida, ela reaparece novamente. quando o site é atualizado.
+
+sugestão:página está muito escassa de informções sobre as contas presentes como por exemplo, data de criação.
+
+
+Página criar movimentação;
+erro: sem especificações do que se trata cada bloco de resposta.
+
+erro1: desorganização no bloco de colocar a 'data da movimentação' e 'data do pagameno', pois a mesma não tem restrições com datas futuras e nem possui facilitação ao cliente.
+sugestão: criação de restrições de datas , além de colocar as '/' automáticamente, deixando claro para que serve cada espaço: DD/MM/AAAA.
+
+sugestão: colocar restrições nos blocos presentes.
+
+erro3: quando uma conta é add na página 'contas', ela não aparece na página 'criar movimentação'.
+
+
+Página resumo mensal;
+erro: quando é excluído as contas na opção 'ações', ela volta quando o cliente reloga.
+
+
+	
